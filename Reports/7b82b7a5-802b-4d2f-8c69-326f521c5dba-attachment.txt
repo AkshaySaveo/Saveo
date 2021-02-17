@@ -1,0 +1,24 @@
+Message: no such element: Unable to locate element: {"method":"css selector","selector":"tb-width--full search-bar tb-typo--body1 tb-color--grey-900 ng-pristine ng-valid ng-touched"}
+  (Session info: chrome=88.0.4324.150)
+Stacktrace:
+0   chromedriver                        0x0000000107da0e09 chromedriver + 2641417
+1   chromedriver                        0x000000010842c4b3 chromedriver + 9503923
+2   chromedriver                        0x0000000107b439b3 chromedriver + 162227
+3   chromedriver                        0x0000000107b73a14 chromedriver + 358932
+4   chromedriver                        0x0000000107ba01c4 chromedriver + 541124
+5   chromedriver                        0x0000000107b8f28d chromedriver + 471693
+6   chromedriver                        0x0000000107b9e446 chromedriver + 533574
+7   chromedriver                        0x0000000107b8f553 chromedriver + 472403
+8   chromedriver                        0x0000000107b69ae4 chromedriver + 318180
+9   chromedriver                        0x0000000107b6aa87 chromedriver + 322183
+10  chromedriver                        0x0000000107d70ab9 chromedriver + 2443961
+11  chromedriver                        0x0000000107d7d89f chromedriver + 2496671
+12  chromedriver                        0x0000000107d7d55b chromedriver + 2495835
+13  chromedriver                        0x0000000107d574c5 chromedriver + 2340037
+14  chromedriver                        0x0000000107d7e47f chromedriver + 2499711
+15  chromedriver                        0x0000000107d66049 chromedriver + 2400329
+16  chromedriver                        0x0000000107d9533f chromedriver + 2593599
+17  chromedriver                        0x0000000107da6523 chromedriver + 2663715
+18  libsystem_pthread.dylib             0x00007fff6f522109 _pthread_start + 148
+19  libsystem_pthread.dylib             0x00007fff6f51db8b thread_start + 15
+

@@ -1,0 +1,4 @@
+/Users/akshaykalyanashetti/Downloads/Sel_frm_scarth2-master/Entered 7701930106 in text field  16-02-2021_23-23-10.png
+/Users/akshaykalyanashetti/Downloads/Sel_frm_scarth2-master/Entered //*[@id='sign-in-button']/span in text field  16-02-2021_23-23-11.png
+/Users/akshaykalyanashetti/Downloads/Sel_frm_scarth2-master/Entered 987654 in text field  16-02-2021_23-23-13.png
+/Users/akshaykalyanashetti/Downloads/Sel_frm_scarth2-master/Entered //span[text()="Verify"] in text field  16-02-2021_23-23-14.png

@@ -1,0 +1,6 @@
+/Users/akshaykalyanashetti/Downloads/Sel_frm_scarth2-master/Entered /html/body/app-root/div/app-dashboard-container/div/mat-drawer-container/mat-drawer-content/mat-sidenav-container/mat-sidenav-content/mat-toolbar/mat-toolbar-row[1]/div[2]/a[3]/span in text field  17-02-2021_19-52-38.png
+/Users/akshaykalyanashetti/Downloads/Sel_frm_scarth2-master/Entered //*[@id="cdk-overlay-5"]/div/div/span/a[2] in text field  17-02-2021_19-52-38.png
+/Users/akshaykalyanashetti/Downloads/Sel_frm_scarth2-master/Entered //mat-icon[@id="menu"] in text field  17-02-2021_19-52-39.png
+/Users/akshaykalyanashetti/Downloads/Sel_frm_scarth2-master/Entered //span[contains(text(),"Order Placing")] in text field  17-02-2021_19-52-40.png
+/Users/akshaykalyanashetti/Downloads/Sel_frm_scarth2-master/Entered //*[contains(text(),"Order Retrieve")] in text field  17-02-2021_19-52-41.png
+/Users/akshaykalyanashetti/Downloads/Sel_frm_scarth2-master/Entered //*[contains(text(),'Retrieve & Email')] in text field  17-02-2021_19-52-47.png

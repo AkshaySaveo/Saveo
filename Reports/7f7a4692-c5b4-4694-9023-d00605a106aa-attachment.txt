@@ -1,0 +1,3 @@
+/Users/akshaykalyanashetti/Downloads/Sel_frm_scarth2-master/Entered Sinarest Drops(p) in text field  17-02-2021_00-00-56.png
+/Users/akshaykalyanashetti/Downloads/Sel_frm_scarth2-master/Entered //*[@class="mat-button-wrapper"] in text field  17-02-2021_00-01-02.png
+/Users/akshaykalyanashetti/Downloads/Sel_frm_scarth2-master/Entered //*[@id="dashboard-container"]/div/div[3]/app-common-search-container/div/div[1]/table/tr/td[6]/div[1]/div/div[1]/div/input in text field  17-02-2021_00-01-02.png

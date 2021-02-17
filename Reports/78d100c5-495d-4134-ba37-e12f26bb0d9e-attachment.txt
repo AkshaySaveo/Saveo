@@ -1,0 +1,7 @@
+/Users/akshaykalyanashetti/Downloads/Sel_frm_scarth2-master/Entered Sinarest Drops(p) in text field  17-02-2021_17-59-08.png
+/Users/akshaykalyanashetti/Downloads/Sel_frm_scarth2-master/Entered //*[@class="mat-button-wrapper"] in text field  17-02-2021_17-59-14.png
+/Users/akshaykalyanashetti/Downloads/Sel_frm_scarth2-master/Entered //*[@id="dashboard-container"]/div/div[3]/app-common-search-container/div/div[1]/table/tr/td[6]/div[1]/div/div[1]/div/input in text field  17-02-2021_17-59-15.png
+/Users/akshaykalyanashetti/Downloads/Sel_frm_scarth2-master/Entered //*[@class='mat-button-wrapper'] in text field  17-02-2021_17-59-16.png
+/Users/akshaykalyanashetti/Downloads/Sel_frm_scarth2-master/Entered /html/body/app-root/div/app-dashboard-container/div/mat-drawer-container/mat-drawer-content/mat-sidenav-container/mat-sidenav-content/mat-toolbar/mat-toolbar-row[1]/div[2]/a[2]/span in text field  17-02-2021_17-59-22.png
+/Users/akshaykalyanashetti/Downloads/Sel_frm_scarth2-master/Entered mat-radio-2 in text field  17-02-2021_17-59-27.png
+/Users/akshaykalyanashetti/Downloads/Sel_frm_scarth2-master/Entered //*[@id="dashboard-content"]/mat-drawer-container/mat-drawer/div/div[2]/div[7]/button/span in text field  17-02-2021_17-59-31.png
